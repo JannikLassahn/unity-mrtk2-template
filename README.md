@@ -1,0 +1,1 @@
+Template for developing apps with Unity 2018.4 and Mixed Reality Toolkit v2
